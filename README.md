@@ -1,8 +1,6 @@
 [![Header](https://github.com/mlddleware/mlddleware/blob/main/assets/header.png)](https://discordapp.com/users/844582182541459457)
 
-## Im beginner Software Engeneer
-
-Latest YouTube Videos
+## I'm a mid-level developer
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
@@ -10,8 +8,6 @@ Latest YouTube Videos
 ![СSharp](https://img.shields.io/badge/-Csharp-090909?style=for-the-badge&logo=csharp&logoColor=F88C00)
 ![CPP](https://img.shields.io/badge/-CPP-090909?style=for-the-badge&logo=c%2B%2B&logoColor=6296CC)
 
-### Socials:
+### Follow me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mlddleware)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=27A0D9)](https://discord.gg/b4GAPja2hD)
-
-Follow me
