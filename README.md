@@ -9,5 +9,5 @@
 ![CPP](https://img.shields.io/badge/-CPP-090909?style=for-the-badge&logo=c%2B%2B&logoColor=6296CC)
 
 ### Follow me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mlddleware)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/encorexdev)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=27A0D9)](https://discord.gg/b4GAPja2hD)
